@@ -8,8 +8,7 @@
 
 #video-bg {
 position: fixed;
-right: 0;
-bottom: 0;
+top: -50%;
 width: auto;
 min-width: 100%;
 height: auto;
@@ -17,7 +16,7 @@ min-height: 100%;
 z-index: -100;
 background: transparent url(skull.jpg) no-repeat;
 background-size: cover;
-}
+
 }
 
 .signup-form {
