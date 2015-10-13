@@ -1,6 +1,6 @@
 .intro-message {
 	text-align: center;
-	padding-top: 20%;
+	padding-top: 0%;
 	padding-bottom: 10%;
 	color: white;
 
@@ -20,5 +20,11 @@ background-size: cover;
 }
 
 .signup-form {
+	color: white;
+	text-align: center;
+}
+
+.myList{
+	text-align: center;
 	color: white;
 }
