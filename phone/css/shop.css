@@ -1,0 +1,219 @@
+.version.shop /* version checker */
+{
+	color: #000019;
+	background-color: #0C7491;
+}
+
+@-ms-viewport
+{
+	width: 380px;
+}
+
+@-webkit-viewport
+{
+	width: 380px;
+}
+
+@-o-viewport
+{
+	width: 380px;
+}
+
+@-moz-viewport
+{
+	width: 380px;
+}
+
+@viewport
+{
+	width: 380px;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 380px;
+	min-height: 569.9499999999989px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	padding-bottom: 0px;
+}
+
+#pu5470
+{
+	width: 0.01px;
+}
+
+#u5470
+{
+	z-index: 2;
+	height: 290px;
+	border-color: #000000;
+	background: #7F7F7F url("../../images/bikebasket.jpg") no-repeat left bottom;
+	background-size: cover;
+}
+
+#u5470-bw
+{
+	z-index: 2;
+	height: 290px;
+}
+
+#u5480-3
+{
+	z-index: 3;
+	min-height: 290px;
+	border-style: none;
+	background-color: #474747;
+	background-color: rgba(0,0,0,0.72);
+	border-radius: 0px;
+	-pie-background: rgba(0,0,0,0.72);
+}
+
+.hr
+{
+	border-style: solid;
+	border-color: #EAEAEA;
+	background-color: transparent;
+	border-width: 1px 0px 0px;
+}
+
+#u5480-3-bw
+{
+	z-index: 3;
+	min-height: 290px;
+}
+
+#u5471
+{
+	z-index: 6;
+	width: 195px;
+	min-height: 155px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	text-align: center;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 116px;
+}
+
+#u5490-3
+{
+	z-index: 12;
+	width: 20px;
+	min-height: 154px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-style: solid;
+	opacity: 0.2;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=20)";
+	filter: alpha(opacity=20);
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 118px;
+	left: 18px;
+}
+
+#u5947
+{
+	z-index: 20;
+	overflow: hidden;
+	position: relative;
+	width: 87px;
+	margin-right: -10000px;
+	margin-top: 15px;
+	left: 8px;
+}
+
+#pu5486
+{
+	width: 0.01px;
+	margin-left: 20px;
+}
+
+#u5486
+{
+	z-index: 18;
+	width: 17px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 35px;
+}
+
+#u5475
+{
+	z-index: 8;
+	width: 158px;
+	min-height: 43px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 31px;
+	left: 25px;
+}
+
+#u5508-3
+{
+	z-index: 15;
+	width: 20px;
+	min-height: 76px;
+	border-top-width: 0px;
+	border-left-width: 1px;
+	border-style: solid;
+	position: relative;
+	margin-right: -10000px;
+	left: 230px;
+}
+
+#u5481-3
+{
+	z-index: 9;
+	min-height: 12px;
+	border-style: solid;
+	border-width: 1px 0px 0px;
+}
+
+#u5481-3-bw
+{
+	z-index: 9;
+	min-height: 12px;
+}
+
+#u5473
+{
+	z-index: 7;
+	min-height: 870px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+#u5473-bw
+{
+	z-index: 7;
+	min-height: 870px;
+	margin-top: 49px;
+}
+
+body
+{
+	position: relative;
+	min-width: 380px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+
