@@ -1,7 +1,7 @@
 .version.retail /* version checker */
 {
-	color: #000012;
-	background-color: #3A701C;
+	color: #0000E4;
+	background-color: #219DC2;
 }
 
 .html
@@ -140,24 +140,6 @@
 	min-height: 123px;
 	border-style: none;
 	background-color: #AEDFE5;
-}
-
-#u9483-3:hover
-{
-	background-color: transparent;
-	padding-top: 0px;
-	padding-bottom: 0px;
-	min-height: 123px;
-	margin: 0px;
-}
-
-#u9483-3:active
-{
-	background-color: transparent;
-	padding-top: 0px;
-	padding-bottom: 0px;
-	min-height: 123px;
-	margin: 0px;
 }
 
 #u9483-3-bw
