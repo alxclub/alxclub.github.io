@@ -79,25 +79,6 @@
 	background-size: 200px 41px;
 }
 
-#u1648-23
-{
-	border-style: solid;
-	border-color: #EAEAEA;
-	background-color: #F8F8F8;
-	position: relative;
-	border-width: 0px 1px 0px 0px;
-}
-
-#u1648-21
-{
-	font-size: 13px;
-	line-height: 23px;
-	letter-spacing: 2px;
-	color: #7F7F7F;
-	font-family: dosis, sans-serif;
-	font-weight: 400;
-}
-
 #u1650-9
 {
 	border-style: solid;
@@ -170,16 +151,10 @@
 	color: #7F7F7F;
 	line-height: 14px;
 	letter-spacing: 2px;
-	font-family: abel, sans-serif;
-	font-weight: 400;
+	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	font-style: normal;
 	position: relative;
 	border-width: 0px 0px 1px;
-}
-
-#widgetu1643:hover #u1645-4
-{
-	border-color: #C4C4C4;
 }
 
 #widgetu1643.focus-st #u1645-4
@@ -189,31 +164,15 @@
 
 #widgetu1643.fld-err-st #u1645-4
 {
-	border-color: #90624D;
-}
-
-#widgetu1643:hover #u1645-4 *
-{
-	color: #90624D;
-}
-
-#widgetu1643.focus-st #u1645-4 *
-{
-	color: #7F7F7F;
-}
-
-#widgetu1643.fld-err-st #u1645-4 *
-{
-	color: #90624D;
+	border-color: #C4C4C4;
 }
 
 #widgetu1643_input,#widgetu1643_prompt
 {
 	color: #7F7F7F;
 	letter-spacing: 2px;
-	font-family: abel, sans-serif;
+	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	font-style: normal;
-	font-weight: 400;
 }
 
 #widgetu1643.non-empty-st #widgetu1643_prompt
@@ -360,6 +319,13 @@
 	background-image: url('../images/soc_tw_over_poster_u7167.png');
 }
 
+#u2012-5
+{
+	border-color: #EAEAEA;
+	background-color: transparent;
+	position: relative;
+}
+
 #u2012-3
 {
 	font-size: 12px;
@@ -367,13 +333,6 @@
 	letter-spacing: 1px;
 	color: #7F7F7F;
 	font-style: italic;
-}
-
-#u2012-5,#u2127-4
-{
-	border-color: #EAEAEA;
-	background-color: transparent;
-	position: relative;
 }
 
 #u2017
@@ -392,7 +351,7 @@
 	position: relative;
 }
 
-#u2014-10
+#u2014-8
 {
 	border-color: #EAEAEA;
 	background-color: transparent;
@@ -400,7 +359,7 @@
 	position: relative;
 }
 
-#u2014-2,#u2014-4
+#u2014-2
 {
 	font-size: 13px;
 	line-height: 23px;
@@ -408,7 +367,7 @@
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 }
 
-#u2014-7
+#u2014-5
 {
 	font-size: 13px;
 	line-height: 23px;
@@ -417,12 +376,12 @@
 	font-weight: 400;
 }
 
-#u1648-5,#u1648-8,#u1648-11,#u1648-14,#u1648-17,#u2012-2,#u2014-5
+#u2012-2,#u2014-3
 {
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 }
 
-#u2014-8
+#u2014-6
 {
 	font-size: 12px;
 	line-height: 22px;
