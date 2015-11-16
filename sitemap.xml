@@ -250,19 +250,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.trustoree.com/where_fake.html</loc>
-    <lastmod>2015-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://www.trustoree.com/what.html</loc>
-    <lastmod>2015-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.trustoree.com/what_fake.html</loc>
     <lastmod>2015-11-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -287,6 +275,12 @@
   </url>
   <url>
     <loc>http://www.trustoree.com/retail.html</loc>
+    <lastmod>2015-11-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.trustoree.com/where.html</loc>
     <lastmod>2015-11-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

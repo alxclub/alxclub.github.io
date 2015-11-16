@@ -1,7 +1,7 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1447641397229" domain="www.trustoree.com">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1447641632191" domain="www.trustoree.com">
   <folder name="css">
     <file name="site_global.css" crc="335415104"/>
-    <file name="master_a-master.css" crc="3767253845" ref="index:simple-sign-up:about:shop:eastman-bike-repair:coffee-with-oren:wiser-electronics---devices:where_fake:leslieville:odette:mena’s-organics:hip-baby:baked-delicacies:meat-select:the-root-cellar:lifestyles:city-nails:haircuties:restaurant:services:what:retail:what_fake:grocery"/>
+    <file name="master_a-master.css" crc="3767253845" ref="index:simple-sign-up:about:shop:eastman-bike-repair:coffee-with-oren:wiser-electronics---devices:leslieville:odette:mena’s-organics:hip-baby:baked-delicacies:meat-select:the-root-cellar:lifestyles:city-nails:haircuties:restaurant:services:what:retail:grocery:where"/>
     <file name="index.css" crc="166324175" ref="index"/>
     <file name="simple-sign-up.css" crc="190658837" ref="simple-sign-up"/>
     <file name="about.css" crc="4251514523" ref="about"/>
@@ -9,7 +9,6 @@
     <file name="eastman-bike-repair.css" crc="3968919685" ref="eastman-bike-repair"/>
     <file name="coffee-with-oren.css" crc="4271561810" ref="coffee-with-oren"/>
     <file name="wiser-electronics---devices.css" crc="210936791" ref="wiser-electronics---devices"/>
-    <file name="where_fake.css" crc="358420555" ref="where_fake"/>
     <file name="leslieville.css" crc="3933687885" ref="leslieville"/>
     <file name="odette.css" crc="4025840390" ref="odette"/>
     <file name="mena_s-organics.css" crc="3950430198" ref="mena’s-organics"/>
@@ -22,10 +21,10 @@
     <file name="haircuties.css" crc="79962856" ref="haircuties"/>
     <file name="restaurant.css" crc="4081414655" ref="restaurant"/>
     <file name="services.css" crc="3845429316" ref="services"/>
-    <file name="what.css" crc="4120312916" ref="what"/>
+    <file name="what.css" crc="22673663" ref="what"/>
     <file name="retail.css" crc="305819676" ref="retail"/>
-    <file name="what_fake.css" crc="22673663" ref="what_fake"/>
     <file name="grocery.css" crc="191190372" ref="grocery"/>
+    <file name="where.css" crc="358420555" ref="where"/>
   </folder>
   <folder name="assets">
     <file name="logo_horizontal.svg" crc="4154713236" mt="1447534465000" seo="true"/>
@@ -48,23 +47,23 @@
     <file name="mobile.css" crc="3800284850" mt="1417488806000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="196614522" ref="phone>index:phone>about:phone>collections:phone>shop:phone>blog-details:phone>blog:about:shop:index:simple-sign-up:baked-delicacies:leslieville:coffee-with-oren:meat-select:mena’s-organics:eastman-bike-repair:haircuties:city-nails:wiser-electronics---devices:odette:hip-baby:lifestyles:the-root-cellar:where_fake:what:what_fake:grocery:restaurant:services:retail"/>
-    <file name="museutils.js" crc="275725342" ref="phone>index:phone>about:phone>collections:phone>shop:phone>blog-details:phone>blog:about:shop:index:simple-sign-up:baked-delicacies:leslieville:coffee-with-oren:meat-select:mena’s-organics:eastman-bike-repair:haircuties:city-nails:wiser-electronics---devices:odette:hip-baby:lifestyles:the-root-cellar:where_fake:what:what_fake:grocery:restaurant:services:retail"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="185257658" ref="phone>index:phone>about:phone>collections:phone>shop:phone>blog-details:phone>blog:shop:index:leslieville:what:grocery:restaurant:services:retail"/>
+    <file name="jquery-1.8.3.min.js" crc="196614522" ref="phone>index:phone>about:phone>collections:phone>shop:phone>blog-details:phone>blog:about:shop:index:simple-sign-up:baked-delicacies:leslieville:coffee-with-oren:meat-select:mena’s-organics:eastman-bike-repair:haircuties:city-nails:wiser-electronics---devices:odette:hip-baby:lifestyles:the-root-cellar:what:grocery:restaurant:services:retail:where"/>
+    <file name="museutils.js" crc="275725342" ref="phone>index:phone>about:phone>collections:phone>shop:phone>blog-details:phone>blog:about:shop:index:simple-sign-up:baked-delicacies:leslieville:coffee-with-oren:meat-select:mena’s-organics:eastman-bike-repair:haircuties:city-nails:wiser-electronics---devices:odette:hip-baby:lifestyles:the-root-cellar:what:grocery:restaurant:services:retail:where"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="185257658" ref="phone>index:phone>about:phone>collections:phone>shop:phone>blog-details:phone>blog:shop:index:leslieville:grocery:restaurant:services:retail"/>
     <file name="pie.js" crc="3827607177" ref="phone>index:phone>about:phone>collections:phone>shop:phone>blog-details:phone>blog:about:index"/>
-    <file name="jquery.watch.js" crc="3999102769" ref="phone>index:phone>about:phone>collections:phone>shop:phone>blog-details:phone>blog:about:shop:index:simple-sign-up:baked-delicacies:leslieville:coffee-with-oren:meat-select:mena’s-organics:eastman-bike-repair:haircuties:city-nails:wiser-electronics---devices:odette:hip-baby:lifestyles:the-root-cellar:where_fake:what:what_fake:grocery:restaurant:services:retail"/>
-    <file name="webpro.js" crc="3883484123" ref="phone>index:phone>about:phone>collections:phone>blog-details:phone>blog:about:shop:index:simple-sign-up:baked-delicacies:leslieville:coffee-with-oren:meat-select:mena’s-organics:eastman-bike-repair:haircuties:city-nails:wiser-electronics---devices:odette:hip-baby:lifestyles:the-root-cellar:where_fake:what:what_fake:grocery:restaurant:services:retail"/>
-    <file name="form_check.php" crc="3932029206" ref="phone>index:phone>about:phone>collections:phone>blog-details:phone>blog:about:shop:index:simple-sign-up:baked-delicacies:leslieville:coffee-with-oren:meat-select:mena’s-organics:eastman-bike-repair:haircuties:city-nails:wiser-electronics---devices:odette:hip-baby:lifestyles:the-root-cellar:where_fake:what:what_fake:grocery:restaurant:services:retail"/>
-    <file name="form_throttle.php" crc="314685628" ref="phone>index:phone>about:phone>collections:phone>blog-details:phone>blog:about:shop:index:simple-sign-up:baked-delicacies:leslieville:coffee-with-oren:meat-select:mena’s-organics:eastman-bike-repair:haircuties:city-nails:wiser-electronics---devices:odette:hip-baby:lifestyles:the-root-cellar:where_fake:what:what_fake:grocery:restaurant:services:retail"/>
-    <file name="form_process.php" crc="401030677" ref="phone>index:phone>about:phone>collections:phone>blog-details:phone>blog:about:shop:index:simple-sign-up:baked-delicacies:leslieville:coffee-with-oren:meat-select:mena’s-organics:eastman-bike-repair:haircuties:city-nails:wiser-electronics---devices:odette:hip-baby:lifestyles:the-root-cellar:where_fake:what:what_fake:grocery:restaurant:services:retail"/>
+    <file name="jquery.watch.js" crc="3999102769" ref="phone>index:phone>about:phone>collections:phone>shop:phone>blog-details:phone>blog:about:shop:index:simple-sign-up:baked-delicacies:leslieville:coffee-with-oren:meat-select:mena’s-organics:eastman-bike-repair:haircuties:city-nails:wiser-electronics---devices:odette:hip-baby:lifestyles:the-root-cellar:what:grocery:restaurant:services:retail:where"/>
+    <file name="webpro.js" crc="3883484123" ref="phone>index:phone>about:phone>collections:phone>blog-details:phone>blog:about:shop:index:simple-sign-up:baked-delicacies:leslieville:coffee-with-oren:meat-select:mena’s-organics:eastman-bike-repair:haircuties:city-nails:wiser-electronics---devices:odette:hip-baby:lifestyles:the-root-cellar:what:grocery:restaurant:services:retail:where"/>
+    <file name="form_check.php" crc="3932029206" ref="phone>index:phone>about:phone>collections:phone>blog-details:phone>blog:about:shop:index:simple-sign-up:baked-delicacies:leslieville:coffee-with-oren:meat-select:mena’s-organics:eastman-bike-repair:haircuties:city-nails:wiser-electronics---devices:odette:hip-baby:lifestyles:the-root-cellar:what:grocery:restaurant:services:retail:where"/>
+    <file name="form_throttle.php" crc="314685628" ref="phone>index:phone>about:phone>collections:phone>blog-details:phone>blog:about:shop:index:simple-sign-up:baked-delicacies:leslieville:coffee-with-oren:meat-select:mena’s-organics:eastman-bike-repair:haircuties:city-nails:wiser-electronics---devices:odette:hip-baby:lifestyles:the-root-cellar:what:grocery:restaurant:services:retail:where"/>
+    <file name="form_process.php" crc="401030677" ref="phone>index:phone>about:phone>collections:phone>blog-details:phone>blog:about:shop:index:simple-sign-up:baked-delicacies:leslieville:coffee-with-oren:meat-select:mena’s-organics:eastman-bike-repair:haircuties:city-nails:wiser-electronics---devices:odette:hip-baby:lifestyles:the-root-cellar:what:grocery:restaurant:services:retail:where"/>
     <file name="form-u3774.php" crc="4231400431" ref="phone>index:phone>about:phone>collections:phone>blog-details:phone>blog"/>
-    <file name="musewpslideshow.js" crc="360574455" ref="phone>collections:about:index:where_fake:what_fake"/>
-    <file name="jquery.museoverlay.js" crc="342093292" ref="phone>collections:about:index:where_fake:what_fake"/>
-    <file name="touchswipe.js" crc="4218319045" ref="phone>collections:about:index:where_fake:what_fake"/>
+    <file name="musewpslideshow.js" crc="360574455" ref="phone>collections:about:index:where:what"/>
+    <file name="jquery.museoverlay.js" crc="342093292" ref="phone>collections:about:index:where:what"/>
+    <file name="touchswipe.js" crc="4218319045" ref="phone>collections:about:index:where:what"/>
     <file name="museredirect.js" crc="3899419633" ref="about:shop:index"/>
-    <file name="jquery.scrolleffects.js" crc="206645848" ref="about:shop:index:simple-sign-up:baked-delicacies:leslieville:coffee-with-oren:meat-select:mena’s-organics:eastman-bike-repair:haircuties:city-nails:wiser-electronics---devices:odette:hip-baby:lifestyles:the-root-cellar:where_fake:what:what_fake:grocery:restaurant:services:retail"/>
-    <file name="form-u1639.php" crc="4231400431" ref="about:shop:index:simple-sign-up:baked-delicacies:leslieville:coffee-with-oren:meat-select:mena’s-organics:eastman-bike-repair:haircuties:city-nails:wiser-electronics---devices:odette:hip-baby:lifestyles:the-root-cellar:where_fake:what:what_fake:grocery:restaurant:services:retail"/>
-    <file name="musewpdisclosure.js" crc="404074387" ref="about:shop:index:simple-sign-up:baked-delicacies:leslieville:coffee-with-oren:meat-select:mena’s-organics:eastman-bike-repair:haircuties:city-nails:wiser-electronics---devices:odette:hip-baby:lifestyles:the-root-cellar:where_fake:what:what_fake:grocery:restaurant:services:retail"/>
+    <file name="jquery.scrolleffects.js" crc="206645848" ref="about:shop:index:simple-sign-up:baked-delicacies:leslieville:coffee-with-oren:meat-select:mena’s-organics:eastman-bike-repair:haircuties:city-nails:wiser-electronics---devices:odette:hip-baby:lifestyles:the-root-cellar:what:grocery:restaurant:services:retail:where"/>
+    <file name="form-u1639.php" crc="4231400431" ref="about:shop:index:simple-sign-up:baked-delicacies:leslieville:coffee-with-oren:meat-select:mena’s-organics:eastman-bike-repair:haircuties:city-nails:wiser-electronics---devices:odette:hip-baby:lifestyles:the-root-cellar:what:grocery:restaurant:services:retail:where"/>
+    <file name="musewpdisclosure.js" crc="404074387" ref="about:shop:index:simple-sign-up:baked-delicacies:leslieville:coffee-with-oren:meat-select:mena’s-organics:eastman-bike-repair:haircuties:city-nails:wiser-electronics---devices:odette:hip-baby:lifestyles:the-root-cellar:what:grocery:restaurant:services:retail:where"/>
     <file name="form-u6963.php" crc="4096550217" ref="simple-sign-up"/>
   </folder>
   <folder name="images">
@@ -105,12 +104,12 @@
     <file name="smart_quote_poster_u7212.png" crc="323953057" ref="phone>about:phone>collections"/>
     <file name="about_bg2.jpg" crc="149443295" ref="phone>about:about" seo="true"/>
     <file name="soup_mobile_collections.jpg" crc="489748507" ref="phone>collections:phone>blog"/>
-    <file name="throw.jpg" crc="108014579" ref="phone>collections:what"/>
-    <file name="bag.jpg" crc="418872803" ref="phone>collections:what"/>
-    <file name="denim.jpg" crc="4078626704" ref="phone>collections:what"/>
-    <file name="glasses.jpg" crc="23687596" ref="phone>collections:what"/>
+    <file name="throw.jpg" crc="108014579" ref="phone>collections"/>
+    <file name="bag.jpg" crc="418872803" ref="phone>collections"/>
+    <file name="denim.jpg" crc="4078626704" ref="phone>collections"/>
+    <file name="glasses.jpg" crc="23687596" ref="phone>collections"/>
     <file name="x.jpg" crc="3921681649" ref="phone>collections"/>
-    <file name="bikebasket.jpg" crc="515273115" ref="phone>collections:phone>shop:phone>blog-details:shop:what"/>
+    <file name="bikebasket.jpg" crc="515273115" ref="phone>collections:phone>shop:phone>blog-details:shop"/>
     <file name="cart_ap.png" crc="156480110" ref="phone>shop" seo="true"/>
     <file name="overlook.jpg" crc="3935491774" ref="phone>blog-details"/>
     <file name="couple-u5712-fr.jpg" crc="467798966" ref="phone>blog-details"/>
@@ -119,8 +118,8 @@
     <file name="couple-u5766-fr.jpg" crc="3879670759" ref="phone>blog"/>
     <file name="climbing-u5805-fr.jpg" crc="4221361264" ref="phone>blog"/>
     <file name="overlook-u5863-fr.jpg" crc="151710725" ref="phone>blog"/>
-    <file name="blank.gif" crc="4208392903" ref="about:index:where_fake:what_fake"/>
-    <file name="loading.gif" crc="3815509949" ref="about:index:where_fake:what_fake"/>
+    <file name="blank.gif" crc="4208392903" ref="about:index:where:what"/>
+    <file name="loading.gif" crc="3815509949" ref="about:index:where:what"/>
     <file name="chat_light.png" crc="198179463" ref="about"/>
     <file name="chat.png" crc="71489413" ref="about"/>
     <file name="expand.svg" crc="3914389410" ref="about"/>
@@ -129,16 +128,13 @@
     <file name="expand_over_poster_u7324.png" crc="280849247" ref="about"/>
     <file name="hide.svg" crc="427691817" ref="about"/>
     <file name="hide_poster_u7265.png" crc="4249777591" ref="about"/>
-    <file name="u1641-17.png" crc="3988373376" ref="about:shop:index:simple-sign-up:baked-delicacies:leslieville:coffee-with-oren:meat-select:mena’s-organics:eastman-bike-repair:haircuties:city-nails:wiser-electronics---devices:odette:hip-baby:lifestyles:the-root-cellar:where_fake:what:what_fake:grocery:restaurant:services:retail"/>
-    <file name="u1641-17-r.png" crc="3877208800" ref="about:shop:index:simple-sign-up:baked-delicacies:leslieville:coffee-with-oren:meat-select:mena’s-organics:eastman-bike-repair:haircuties:city-nails:wiser-electronics---devices:odette:hip-baby:lifestyles:the-root-cellar:where_fake:what:what_fake:grocery:restaurant:services:retail"/>
-    <file name="u1641-17-m.png" crc="3877208800" ref="about:shop:index:simple-sign-up:baked-delicacies:leslieville:coffee-with-oren:meat-select:mena’s-organics:eastman-bike-repair:haircuties:city-nails:wiser-electronics---devices:odette:hip-baby:lifestyles:the-root-cellar:where_fake:what:what_fake:grocery:restaurant:services:retail"/>
-    <file name="u1641-17-fs.png" crc="373805380" ref="about:shop:index:simple-sign-up:baked-delicacies:leslieville:coffee-with-oren:meat-select:mena’s-organics:eastman-bike-repair:haircuties:city-nails:wiser-electronics---devices:odette:hip-baby:lifestyles:the-root-cellar:where_fake:what:what_fake:grocery:restaurant:services:retail"/>
+    <file name="u1641-17.png" crc="3988373376" ref="about:shop:index:simple-sign-up:baked-delicacies:leslieville:coffee-with-oren:meat-select:mena’s-organics:eastman-bike-repair:haircuties:city-nails:wiser-electronics---devices:odette:hip-baby:lifestyles:the-root-cellar:what:grocery:restaurant:services:retail:where"/>
+    <file name="u1641-17-r.png" crc="3877208800" ref="about:shop:index:simple-sign-up:baked-delicacies:leslieville:coffee-with-oren:meat-select:mena’s-organics:eastman-bike-repair:haircuties:city-nails:wiser-electronics---devices:odette:hip-baby:lifestyles:the-root-cellar:what:grocery:restaurant:services:retail:where"/>
+    <file name="u1641-17-m.png" crc="3877208800" ref="about:shop:index:simple-sign-up:baked-delicacies:leslieville:coffee-with-oren:meat-select:mena’s-organics:eastman-bike-repair:haircuties:city-nails:wiser-electronics---devices:odette:hip-baby:lifestyles:the-root-cellar:what:grocery:restaurant:services:retail:where"/>
+    <file name="u1641-17-fs.png" crc="373805380" ref="about:shop:index:simple-sign-up:baked-delicacies:leslieville:coffee-with-oren:meat-select:mena’s-organics:eastman-bike-repair:haircuties:city-nails:wiser-electronics---devices:odette:hip-baby:lifestyles:the-root-cellar:what:grocery:restaurant:services:retail:where"/>
     <file name="soc_tw_poster_u7163.png" crc="3895773282" ref="about"/>
     <file name="soc_tw_over.svg" crc="143888393" ref="about"/>
     <file name="soc_tw_over_poster_u7167.png" crc="4235420030" ref="about"/>
-    <file name="bikebasket-ieu2400-6-fr.png" crc="103506827" ref="what"/>
-    <file name="thumb_tank.jpg" crc="3939123621" ref="what"/>
-    <file name="thumb_ring.jpg" crc="4139225012" ref="what"/>
     <file name="u6970-17.png" crc="3863139769" ref="simple-sign-up"/>
     <file name="u6970-17-r.png" crc="4269861349" ref="simple-sign-up"/>
     <file name="u6970-17-m.png" crc="4269861349" ref="simple-sign-up"/>
@@ -174,9 +170,9 @@
     <file name="happy business owner.jpg" crc="447073180" seo="true" ref="hip-baby"/>
     <file name="small-business owner.jpg" crc="4101038527" seo="true" ref="lifestyles"/>
     <file name="storeownerhappy.jpg" crc="3814889884" seo="true" ref="the-root-cellar"/>
-    <file name="coverimage2.jpg" crc="484853979" seo="true" ref="where_fake"/>
+    <file name="coverimage2.jpg" crc="484853979" seo="true" ref="where"/>
     <file name="favicon.ico" crc="41618198" ref="about"/>
-    <file name="danforthhighres-bw.jpg" crc="327544064" seo="true" ref="what_fake"/>
+    <file name="danforthhighres-bw.jpg" crc="327544064" seo="true" ref="what"/>
   </folder>
   <folder name="phone">
     <folder name="css">
@@ -195,28 +191,27 @@
     <file name="blog-details.html" crc="249752491" mt="1447615207900" redirect="true" seo="true"/>
     <file name="blog.html" crc="3886993983" mt="1447615216088" redirect="true" seo="true"/>
   </folder>
-  <file name="about.html" crc="3952928247" mt="1447641367269" redirect="true" seo="true"/>
-  <file name="shop.html" crc="4231729628" mt="1447641367269" redirect="true" seo="true"/>
-  <file name="index.html" crc="78263328" mt="1447641367269" redirect="true" seo="true"/>
-  <file name="simple-sign-up.html" crc="372957542" mt="1447641367269" redirect="true" seo="true"/>
-  <file name="baked-delicacies.html" crc="209489210" seo="true" mt="1447641367269" redirect="true"/>
-  <file name="leslieville.html" crc="3885739862" seo="true" mt="1447641367269" redirect="true"/>
-  <file name="coffee-with-oren.html" crc="474513993" seo="true" mt="1447641367269" redirect="true"/>
-  <file name="meat-select.html" crc="4011235584" seo="true" mt="1447641367269" redirect="true"/>
-  <file name="mena’s-organics.html" crc="3971415130" seo="true" mt="1447641367269" redirect="true"/>
-  <file name="eastman-bike-repair.html" crc="4115425045" seo="true" mt="1447641367269" redirect="true"/>
-  <file name="haircuties.html" crc="534327801" seo="true" mt="1447641367269" redirect="true"/>
-  <file name="city-nails.html" crc="237957392" seo="true" mt="1447641367269" redirect="true"/>
-  <file name="wiser-electronics---devices.html" crc="535013657" seo="true" mt="1447641367269" redirect="true"/>
-  <file name="odette.html" crc="117558233" seo="true" mt="1447641367269" redirect="true"/>
-  <file name="hip-baby.html" crc="3781476583" seo="true" mt="1447641367269" redirect="true"/>
-  <file name="lifestyles.html" crc="64334147" seo="true" mt="1447641367269" redirect="true"/>
-  <file name="the-root-cellar.html" crc="194173120" seo="true" mt="1447641367269" redirect="true"/>
-  <file name="where_fake.html" crc="285363579" seo="true" mt="1447641367269" redirect="true"/>
-  <file name="what.html" crc="4232723252" seo="true" mt="1447641367269" redirect="true"/>
-  <file name="what_fake.html" crc="461313413" seo="true" mt="1447641367269" redirect="true"/>
-  <file name="grocery.html" crc="385547097" seo="true" mt="1447641367269" redirect="true"/>
-  <file name="restaurant.html" crc="3846708455" seo="true" mt="1447641367269" redirect="true"/>
-  <file name="services.html" crc="4258024400" seo="true" mt="1447641367269" redirect="true"/>
-  <file name="retail.html" crc="403165762" seo="true" mt="1447641367269" redirect="true"/>
+  <file name="about.html" crc="4130219378" mt="1447641612354" redirect="true" seo="true"/>
+  <file name="shop.html" crc="107369933" mt="1447641612354" redirect="true" seo="true"/>
+  <file name="index.html" crc="3959448612" mt="1447641612354" redirect="true" seo="true"/>
+  <file name="simple-sign-up.html" crc="381436068" mt="1447641612354" redirect="true" seo="true"/>
+  <file name="baked-delicacies.html" crc="4168924129" seo="true" mt="1447641612354" redirect="true"/>
+  <file name="leslieville.html" crc="3769073651" seo="true" mt="1447641612354" redirect="true"/>
+  <file name="coffee-with-oren.html" crc="3920371871" seo="true" mt="1447641612354" redirect="true"/>
+  <file name="meat-select.html" crc="197887532" seo="true" mt="1447641612354" redirect="true"/>
+  <file name="mena’s-organics.html" crc="3780392256" seo="true" mt="1447641612354" redirect="true"/>
+  <file name="eastman-bike-repair.html" crc="4216670657" seo="true" mt="1447641612354" redirect="true"/>
+  <file name="haircuties.html" crc="3884602750" seo="true" mt="1447641612354" redirect="true"/>
+  <file name="city-nails.html" crc="4251569990" seo="true" mt="1447641612354" redirect="true"/>
+  <file name="wiser-electronics---devices.html" crc="4226227915" seo="true" mt="1447641612354" redirect="true"/>
+  <file name="odette.html" crc="3990062457" seo="true" mt="1447641612354" redirect="true"/>
+  <file name="hip-baby.html" crc="470054615" seo="true" mt="1447641612354" redirect="true"/>
+  <file name="lifestyles.html" crc="4186667768" seo="true" mt="1447641612354" redirect="true"/>
+  <file name="the-root-cellar.html" crc="286160105" seo="true" mt="1447641612354" redirect="true"/>
+  <file name="what.html" crc="3797428585" seo="true" mt="1447641612354" redirect="true"/>
+  <file name="grocery.html" crc="4289501586" seo="true" mt="1447641612354" redirect="true"/>
+  <file name="restaurant.html" crc="301130447" seo="true" mt="1447641612354" redirect="true"/>
+  <file name="services.html" crc="4172299422" seo="true" mt="1447641612354" redirect="true"/>
+  <file name="retail.html" crc="191267128" seo="true" mt="1447641612354" redirect="true"/>
+  <file name="where.html" crc="4255102483" seo="true" mt="1447641612358" redirect="true"/>
 </manifest>
