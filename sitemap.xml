@@ -2,318 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://www.trustoree.com/assets/logo_horizontal.svg</loc>
-    <lastmod>2014-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.trustoree.com/assets/chat.png</loc>
-    <lastmod>2014-11-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.trustoree.com/assets/arrow_mobile_nav.svg</loc>
-    <lastmod>2014-11-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.trustoree.com/assets/mobile_close.svg</loc>
-    <lastmod>2014-11-23</lastmod>
+    <lastmod>2015-11-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.trustoree.com/assets/logo_mobile_nav.svg</loc>
-    <lastmod>2014-11-23</lastmod>
+    <lastmod>2015-11-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.trustoree.com/assets/logo_footer_crest.svg</loc>
-    <lastmod>2014-11-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.trustoree.com/assets/add.svg</loc>
-    <lastmod>2014-11-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.trustoree.com/assets/scale_ico.svg</loc>
-    <lastmod>2014-12-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.trustoree.com/assets/scale_widget_ico.svg</loc>
-    <lastmod>2014-12-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.trustoree.com/assets/snap_ico.svg</loc>
-    <lastmod>2014-12-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.trustoree.com/assets/rewards_big.jpg</loc>
-    <lastmod>2014-12-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.trustoree.com/assets/rewards_big.png</loc>
-    <lastmod>2014-12-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.trustoree.com/assets/rewards_med.jpg</loc>
-    <lastmod>2014-12-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.trustoree.com/assets/rewards_sm.jpg</loc>
-    <lastmod>2014-12-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.trustoree.com/assets/rewards_smallest.jpg</loc>
-    <lastmod>2014-12-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.trustoree.com/assets/rewards_smallest.png</loc>
-    <lastmod>2014-12-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.trustoree.com/images/phone.svg</loc>
-    <lastmod>2015-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.trustoree.com/images/phone_poster_u7218.png</loc>
-    <lastmod>2015-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.trustoree.com/images/handbag_home.jpg</loc>
-    <lastmod>2015-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.trustoree.com/images/logo_horizontal_white.svg</loc>
-    <lastmod>2015-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.trustoree.com/images/logo_horizontal_white_poster_.png</loc>
-    <lastmod>2015-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.trustoree.com/images/logo_home.svg</loc>
-    <lastmod>2015-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.trustoree.com/images/logo_home_poster_u7254.png</loc>
-    <lastmod>2015-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.trustoree.com/images/wedge.svg</loc>
-    <lastmod>2015-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.trustoree.com/images/wedge_poster_u7058.png</loc>
-    <lastmod>2015-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.trustoree.com/images/home_thumb1.jpg</loc>
-    <lastmod>2015-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.trustoree.com/images/flourish.svg</loc>
-    <lastmod>2015-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.trustoree.com/images/flourish_poster_u7312.png</loc>
-    <lastmod>2015-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.trustoree.com/images/thumb_denim-u3734-fr.jpg</loc>
-    <lastmod>2015-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.trustoree.com/images/brick-crop-u3764.jpg</loc>
-    <lastmod>2015-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.trustoree.com/images/wedge_bottom.svg</loc>
-    <lastmod>2015-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.trustoree.com/images/wedge_bottom_poster_u7064.png</loc>
-    <lastmod>2015-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.trustoree.com/images/arrow_thin2.gif</loc>
-    <lastmod>2015-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.trustoree.com/images/arrow_thin_over.png</loc>
-    <lastmod>2015-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.trustoree.com/images/glasses-u3748-fr.jpg</loc>
-    <lastmod>2015-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.trustoree.com/images/about_bg2-u3800-fr.jpg</loc>
-    <lastmod>2015-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.trustoree.com/images/u3782-17.png</loc>
-    <lastmod>2015-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.trustoree.com/images/u3782-17-r.png</loc>
-    <lastmod>2015-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.trustoree.com/images/u3782-17-m.png</loc>
-    <lastmod>2015-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.trustoree.com/images/u3782-17-fs.png</loc>
-    <lastmod>2015-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.trustoree.com/images/soc_fb_.svg</loc>
-    <lastmod>2015-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.trustoree.com/images/soc_fb__poster_.png</loc>
-    <lastmod>2015-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.trustoree.com/images/soc_tw.svg</loc>
-    <lastmod>2015-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.trustoree.com/images/soc_tw_poster_.png</loc>
-    <lastmod>2015-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.trustoree.com/images/soc_pin.svg</loc>
-    <lastmod>2015-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.trustoree.com/images/soc_pin_poster_.png</loc>
-    <lastmod>2015-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.trustoree.com/images/soc_inst.svg</loc>
-    <lastmod>2015-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.trustoree.com/images/soc_inst_poster_.png</loc>
-    <lastmod>2015-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.trustoree.com/images/arrow_up.svg</loc>
-    <lastmod>2015-11-15</lastmod>
+    <lastmod>2015-11-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.trustoree.com/images/about_bg1.jpg</loc>
-    <lastmod>2015-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.trustoree.com/images/about-thumb.jpg</loc>
-    <lastmod>2015-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.trustoree.com/images/smart_quote.svg</loc>
-    <lastmod>2015-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.trustoree.com/images/smart_quote_poster_u7212.png</loc>
     <lastmod>2015-11-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -325,565 +31,109 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.trustoree.com/images/soup_mobile_collections.jpg</loc>
-    <lastmod>2015-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.trustoree.com/images/throw.jpg</loc>
-    <lastmod>2015-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.trustoree.com/images/bag.jpg</loc>
-    <lastmod>2015-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.trustoree.com/images/denim.jpg</loc>
-    <lastmod>2015-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.trustoree.com/images/glasses.jpg</loc>
-    <lastmod>2015-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.trustoree.com/images/x.jpg</loc>
-    <lastmod>2015-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.trustoree.com/images/bikebasket.jpg</loc>
-    <lastmod>2015-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://www.trustoree.com/images/cart_ap.png</loc>
     <lastmod>2015-11-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.trustoree.com/images/overlook.jpg</loc>
+    <loc>http://www.trustoree.com/images/businessower.jpg</loc>
     <lastmod>2015-11-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.trustoree.com/images/couple-u5712-fr.jpg</loc>
+    <loc>http://www.trustoree.com/images/shopsmallhomepage_bw.jpg</loc>
     <lastmod>2015-11-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.trustoree.com/images/climbing.jpg</loc>
+    <loc>http://www.trustoree.com/images/businessowner1.jpg</loc>
     <lastmod>2015-11-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.trustoree.com/images/overlook-u5932-fr.jpg</loc>
+    <loc>http://www.trustoree.com/images/meatshopowner2.jpg</loc>
     <lastmod>2015-11-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.trustoree.com/images/couple-u5766-fr.jpg</loc>
+    <loc>http://www.trustoree.com/images/grocerystore.jpg</loc>
     <lastmod>2015-11-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.trustoree.com/images/climbing-u5805-fr.jpg</loc>
+    <loc>http://www.trustoree.com/images/bikestoreowner1335x890.jpg</loc>
     <lastmod>2015-11-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.trustoree.com/images/overlook-u5863-fr.jpg</loc>
+    <loc>http://www.trustoree.com/images/famliyonwers.jpg</loc>
     <lastmod>2015-11-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.trustoree.com/images/blank.gif</loc>
+    <loc>http://www.trustoree.com/images/retailstoreowner.jpg</loc>
     <lastmod>2015-11-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.trustoree.com/images/loading.gif</loc>
+    <loc>http://www.trustoree.com/images/grocerowner1.jpg</loc>
     <lastmod>2015-11-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.trustoree.com/images/cart_light.png</loc>
+    <loc>http://www.trustoree.com/images/grocerimage.jpg</loc>
     <lastmod>2015-11-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.trustoree.com/images/cart.png</loc>
+    <loc>http://www.trustoree.com/images/happy%20business%20owner.jpg</loc>
     <lastmod>2015-11-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.trustoree.com/images/chat_light.png</loc>
+    <loc>http://www.trustoree.com/images/small-business%20owner.jpg</loc>
     <lastmod>2015-11-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.trustoree.com/images/chat.png</loc>
+    <loc>http://www.trustoree.com/images/storeownerhappy.jpg</loc>
     <lastmod>2015-11-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.trustoree.com/images/expand.svg</loc>
+    <loc>http://www.trustoree.com/images/coverimage2.jpg</loc>
     <lastmod>2015-11-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.trustoree.com/images/expand_poster_u7318.png</loc>
+    <loc>http://www.trustoree.com/phone/collections.html</loc>
     <lastmod>2015-11-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.trustoree.com/images/expand_over.svg</loc>
+    <loc>http://www.trustoree.com/phone/blog-details.html</loc>
     <lastmod>2015-11-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.trustoree.com/images/expand_over_poster_u7324.png</loc>
-    <lastmod>2015-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.trustoree.com/images/hide.svg</loc>
-    <lastmod>2015-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.trustoree.com/images/hide_poster_u7265.png</loc>
-    <lastmod>2015-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.trustoree.com/images/u1641-17.png</loc>
-    <lastmod>2015-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.trustoree.com/images/u1641-17-r.png</loc>
-    <lastmod>2015-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.trustoree.com/images/u1641-17-m.png</loc>
-    <lastmod>2015-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.trustoree.com/images/u1641-17-fs.png</loc>
-    <lastmod>2015-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.trustoree.com/images/soc_tw_poster_u7163.png</loc>
-    <lastmod>2015-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.trustoree.com/images/soc_tw_over.svg</loc>
-    <lastmod>2015-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.trustoree.com/images/soc_tw_over_poster_u7167.png</loc>
-    <lastmod>2015-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.trustoree.com/images/soc_pin_poster_u7176.png</loc>
-    <lastmod>2015-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.trustoree.com/images/soc_pin_over.svg</loc>
-    <lastmod>2015-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.trustoree.com/images/soc_pin_over_poster_u7180.png</loc>
-    <lastmod>2015-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.trustoree.com/images/soc_inst_poster_u7189.png</loc>
-    <lastmod>2015-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.trustoree.com/images/soc_inst_over.svg</loc>
-    <lastmod>2015-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.trustoree.com/images/soc_inst_over_poster_u7193.png</loc>
-    <lastmod>2015-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.trustoree.com/images/soc_fb__poster_u7208.png</loc>
-    <lastmod>2015-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.trustoree.com/images/soc_fb_over.svg</loc>
-    <lastmod>2015-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.trustoree.com/images/soc_fb_over_poster_u7199.png</loc>
-    <lastmod>2015-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.trustoree.com/images/bikebasket-ieu2400-6-fr.png</loc>
-    <lastmod>2015-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.trustoree.com/images/thumb_tank.jpg</loc>
-    <lastmod>2015-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.trustoree.com/images/thumb_ring.jpg</loc>
-    <lastmod>2015-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.trustoree.com/images/deatils_sweater.jpg</loc>
-    <lastmod>2015-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.trustoree.com/images/details_sweater2.jpg</loc>
-    <lastmod>2015-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.trustoree.com/images/glasses_dark.png</loc>
-    <lastmod>2015-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.trustoree.com/images/grid_ico_brn.svg</loc>
-    <lastmod>2015-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.trustoree.com/images/grid_ico_brn_poster_u7289.png</loc>
-    <lastmod>2015-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.trustoree.com/images/grid_ico_wh.svg</loc>
-    <lastmod>2015-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.trustoree.com/images/grid_ico_wh_poster_u7283.png</loc>
-    <lastmod>2015-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.trustoree.com/images/cart_ap_white.png</loc>
-    <lastmod>2015-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.trustoree.com/images/brick_blur.jpg</loc>
-    <lastmod>2015-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.trustoree.com/images/brick.jpg</loc>
-    <lastmod>2015-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.trustoree.com/images/thumb_glasses.jpg</loc>
-    <lastmod>2015-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.trustoree.com/images/thumb_throw.jpg</loc>
-    <lastmod>2015-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.trustoree.com/images/brick_blur-u3131-3-fr.png</loc>
-    <lastmod>2015-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.trustoree.com/images/mag_brn.png</loc>
-    <lastmod>2015-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.trustoree.com/images/mag_white.png</loc>
-    <lastmod>2015-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.trustoree.com/images/thumb_sweater.jpg</loc>
-    <lastmod>2015-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.trustoree.com/images/thumb_tank-u6340-fr.jpg</loc>
-    <lastmod>2015-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.trustoree.com/images/thumb_coat.jpg</loc>
-    <lastmod>2015-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.trustoree.com/images/thumb_denim.jpg</loc>
-    <lastmod>2015-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.trustoree.com/images/thumb_sundress.jpg</loc>
-    <lastmod>2015-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.trustoree.com/images/details_denim.jpg</loc>
-    <lastmod>2015-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.trustoree.com/images/blog_bg2.jpg</loc>
-    <lastmod>2015-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.trustoree.com/images/hearts.jpg</loc>
-    <lastmod>2015-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.trustoree.com/images/u5154-17.png</loc>
-    <lastmod>2015-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.trustoree.com/images/u5154-17-r.png</loc>
-    <lastmod>2015-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.trustoree.com/images/u5154-17-m.png</loc>
-    <lastmod>2015-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.trustoree.com/images/u5154-17-fs.png</loc>
-    <lastmod>2015-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.trustoree.com/images/x_wh.gif</loc>
-    <lastmod>2015-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.trustoree.com/images/glasses_white.png</loc>
-    <lastmod>2015-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.trustoree.com/images/couple-ieu5139-23-fr.png</loc>
-    <lastmod>2015-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.trustoree.com/images/couple.jpg</loc>
-    <lastmod>2015-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.trustoree.com/images/necklace.jpg</loc>
-    <lastmod>2015-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.trustoree.com/images/thumb_ring-u6450-fr.jpg</loc>
-    <lastmod>2015-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.trustoree.com/images/thumb_necklace.jpg</loc>
-    <lastmod>2015-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.trustoree.com/images/makeup_bag.jpg</loc>
-    <lastmod>2015-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.trustoree.com/images/thumb_purse.jpg</loc>
-    <lastmod>2015-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.trustoree.com/images/thumb_scarf.jpg</loc>
-    <lastmod>2015-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.trustoree.com/images/thumb_sun-glasses.jpg</loc>
-    <lastmod>2015-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.trustoree.com/images/thumb_throw2.jpg</loc>
-    <lastmod>2015-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.trustoree.com/images/thumb_pillow.jpg</loc>
-    <lastmod>2015-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.trustoree.com/images/thumb_rugs.jpg</loc>
-    <lastmod>2015-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.trustoree.com/images/candy.jpg</loc>
-    <lastmod>2015-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.trustoree.com/images/thumb_glass.jpg</loc>
-    <lastmod>2015-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.trustoree.com/images/antlers.jpg</loc>
-    <lastmod>2015-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.trustoree.com/images/u6970-17.png</loc>
-    <lastmod>2015-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.trustoree.com/images/u6970-17-r.png</loc>
-    <lastmod>2015-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.trustoree.com/images/u6970-17-m.png</loc>
-    <lastmod>2015-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.trustoree.com/images/u6970-17-fs.png</loc>
+    <loc>http://www.trustoree.com/phone/blog.html</loc>
     <lastmod>2015-11-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -896,24 +146,11 @@
     <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://www.trustoree.com/phone/about.html"/>
   </url>
   <url>
-    <loc>http://www.trustoree.com/collections.html</loc>
-    <lastmod>2015-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://www.trustoree.com/phone/collections.html"/>
-  </url>
-  <url>
     <loc>http://www.trustoree.com/shop.html</loc>
     <lastmod>2015-11-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://www.trustoree.com/phone/shop.html"/>
-  </url>
-  <url>
-    <loc>http://www.trustoree.com/product-details.html</loc>
-    <lastmod>2015-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.trustoree.com/index.html</loc>
@@ -923,51 +160,97 @@
     <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://www.trustoree.com/phone/index.html"/>
   </url>
   <url>
-    <loc>http://www.trustoree.com/apparel.html</loc>
-    <lastmod>2015-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.trustoree.com/product-details-2.html</loc>
-    <lastmod>2015-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.trustoree.com/blog-details.html</loc>
-    <lastmod>2015-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://www.trustoree.com/phone/blog-details.html"/>
-  </url>
-  <url>
-    <loc>http://www.trustoree.com/blog.html</loc>
-    <lastmod>2015-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://www.trustoree.com/phone/blog.html"/>
-  </url>
-  <url>
-    <loc>http://www.trustoree.com/blog-grid.html</loc>
-    <lastmod>2015-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.trustoree.com/accessories.html</loc>
-    <lastmod>2015-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.trustoree.com/decor.html</loc>
-    <lastmod>2015-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://www.trustoree.com/simple-sign-up.html</loc>
+    <lastmod>2015-11-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.trustoree.com/where.html</loc>
+    <lastmod>2015-11-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.trustoree.com/baked-delicacies.html</loc>
+    <lastmod>2015-11-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.trustoree.com/leslieville.html</loc>
+    <lastmod>2015-11-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.trustoree.com/coffee-with-oren.html</loc>
+    <lastmod>2015-11-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.trustoree.com/meat-select.html</loc>
+    <lastmod>2015-11-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.trustoree.com/mena%E2%80%99s-organics.html</loc>
+    <lastmod>2015-11-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.trustoree.com/eastman-bike-repair.html</loc>
+    <lastmod>2015-11-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.trustoree.com/haircuties.html</loc>
+    <lastmod>2015-11-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.trustoree.com/city-nails.html</loc>
+    <lastmod>2015-11-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.trustoree.com/wiser-electronics---devices.html</loc>
+    <lastmod>2015-11-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.trustoree.com/odette.html</loc>
+    <lastmod>2015-11-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.trustoree.com/hip-baby.html</loc>
+    <lastmod>2015-11-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.trustoree.com/lifestyles.html</loc>
+    <lastmod>2015-11-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.trustoree.com/the-root-cellar.html</loc>
+    <lastmod>2015-11-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.trustoree.com/where_fake.html</loc>
     <lastmod>2015-11-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

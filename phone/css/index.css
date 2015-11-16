@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #000017;
-	background-color: #27BCF2;
+	color: #0000EE;
+	background-color: #1DADB8;
 }
 
 @-ms-viewport
@@ -123,11 +123,6 @@
 	position: relative;
 	background: transparent url("../../images/logo_home.svg") no-repeat center center;
 	background-size: cover;
-}
-
-.nosvg #u5662
-{
-	background-image: url('../../images/logo_home_poster_u7254.png');
 }
 
 #buttonu3593
@@ -479,8 +474,8 @@
 	border-width: 3px;
 	border-style: solid;
 	border-color: #FFFFFF;
-	color: #FFFFFF;
 	line-height: 16px;
+	color: #FFFFFF;
 	position: relative;
 	padding: 12px 10px 10px;
 }
@@ -504,8 +499,8 @@
 	border-width: 3px;
 	border-style: solid;
 	border-color: #FFFFFF;
-	color: #FFFFFF;
 	line-height: 16px;
+	color: #FFFFFF;
 	margin-top: 13px;
 	position: relative;
 	padding: 12px 10px 10px;
@@ -530,8 +525,8 @@
 	border-width: 3px;
 	border-style: solid;
 	border-color: #FFFFFF;
-	color: #FFFFFF;
 	line-height: 16px;
+	color: #FFFFFF;
 	margin-top: 12px;
 	position: relative;
 	padding: 12px 10px 10px;
@@ -620,8 +615,8 @@
 	border-width: 3px;
 	border-style: solid;
 	border-color: #FFFFFF;
-	color: #FFFFFF;
 	line-height: 16px;
+	color: #FFFFFF;
 	margin-left: 107px;
 	margin-top: 20px;
 	position: relative;

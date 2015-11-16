@@ -1,7 +1,7 @@
 .version.shop /* version checker */
 {
-	color: #0000FF;
-	background-color: #741274;
+	color: #0000E1;
+	background-color: #CEA76D;
 }
 
 .html
@@ -30,7 +30,7 @@
 
 #u487-6
 {
-	z-index: 193;
+	z-index: 144;
 	min-height: 84px;
 }
 
@@ -43,7 +43,7 @@
 
 #u2613-3
 {
-	z-index: 199;
+	z-index: 150;
 	width: 69px;
 	min-height: 89px;
 }
@@ -62,36 +62,15 @@
 	position: fixed;
 	left: 0px;
 	right: 0px;
-	z-index: 193;
+	z-index: 144;
 	top: -13px;
 }
 
-#u2646-7
+#u2646-6
 {
-	z-index: 203;
+	z-index: 154;
 	min-height: 50px;
 	padding-right: 6px;
-}
-
-#u2662
-{
-	margin-top: 8px;
-	margin-bottom: -8px;
-}
-
-#u2661
-{
-	z-index: 209;
-	width: 68px;
-	height: 39px;
-}
-
-#u2661:hover
-{
-	width: 68px;
-	height: 39px;
-	min-height: 0px;
-	margin: 0px;
 }
 
 #u2654
@@ -102,7 +81,7 @@
 
 #u2647
 {
-	z-index: 212;
+	z-index: 160;
 	width: 66px;
 	height: 39px;
 }
@@ -115,18 +94,18 @@
 	margin: 0px;
 }
 
-#u2646-7-bw
+#u2646-6-bw
 {
 	position: fixed;
 	left: 0px;
 	right: 0px;
-	z-index: 203;
+	z-index: 154;
 	top: 16px;
 }
 
 #u6314
 {
-	z-index: 233;
+	z-index: 178;
 	width: 35px;
 	height: 1px;
 	border-color: #000000;
@@ -134,12 +113,12 @@
 	position: fixed;
 	top: 20px;
 	left: 50%;
-	margin-left: 200px;
+	margin-left: 190px;
 }
 
 #u7507
 {
-	z-index: 231;
+	z-index: 176;
 	width: 248px;
 	min-height: 73px;
 	top: 24px;
@@ -148,7 +127,7 @@
 
 #u5260
 {
-	z-index: 232;
+	z-index: 177;
 	width: 158px;
 	min-height: 43px;
 	border-style: none;
@@ -159,9 +138,9 @@
 	right: 181px;
 }
 
-#u6111-17
+#u6111-14
 {
-	z-index: 214;
+	z-index: 162;
 	width: 541px;
 	min-height: 26px;
 	top: 38px;
@@ -299,7 +278,7 @@
 #u5256
 {
 	z-index: 26;
-	min-height: 102px;
+	min-height: 106px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
@@ -308,7 +287,7 @@
 #u5256-bw
 {
 	z-index: 26;
-	min-height: 102px;
+	min-height: 106px;
 	margin-top: 374px;
 }
 
@@ -344,7 +323,7 @@
 #accordionu1636
 {
 	z-index: 29;
-	bottom: -5px;
+	bottom: -460px;
 }
 
 #u1637
@@ -352,7 +331,7 @@
 	z-index: 30;
 }
 
-#u1649-5
+#u1649-3
 {
 	z-index: 31;
 	min-height: 26px;
@@ -360,15 +339,7 @@
 	padding-right: 60px;
 }
 
-#u1649-5:hover
-{
-	padding-top: 13px;
-	padding-bottom: 0px;
-	min-height: 26px;
-	margin: 0px;
-}
-
-#u1649-5.AccordionPanelTabOpen
+#u1649-3:hover
 {
 	padding-top: 13px;
 	padding-bottom: 0px;
@@ -378,18 +349,18 @@
 
 #u1638
 {
-	z-index: 36;
+	z-index: 34;
 }
 
-#pu1648-34
+#pu1648-23
 {
 	width: 0.01px;
 	margin-right: -10000px;
 }
 
-#u1648-34
+#u1648-23
 {
-	z-index: 37;
+	z-index: 35;
 	width: 245px;
 	min-height: 412px;
 	padding-left: 25px;
@@ -399,7 +370,7 @@
 
 #u1650-9
 {
-	z-index: 71;
+	z-index: 58;
 	width: 430px;
 	min-height: 412px;
 	margin-right: -10000px;
@@ -408,7 +379,7 @@
 
 #widgetu1639
 {
-	z-index: 80;
+	z-index: 67;
 	width: 0.01px;
 	height: 63px;
 	margin-right: -10000px;
@@ -418,7 +389,7 @@
 
 #widgetu1643
 {
-	z-index: 81;
+	z-index: 68;
 	width: 225px;
 	height: 27px;
 	margin-right: -10000px;
@@ -434,7 +405,7 @@
 
 #u1645-4
 {
-	z-index: 82;
+	z-index: 69;
 	width: 213px;
 	min-height: 14px;
 	padding: 6px;
@@ -483,7 +454,7 @@
 
 #u1647-4
 {
-	z-index: 86;
+	z-index: 73;
 	width: 230px;
 	min-height: 21px;
 	padding-top: 4px;
@@ -494,7 +465,7 @@
 
 #u1642-4
 {
-	z-index: 90;
+	z-index: 77;
 	width: 230px;
 	min-height: 21px;
 	padding-top: 4px;
@@ -505,7 +476,7 @@
 
 #u1640-4
 {
-	z-index: 94;
+	z-index: 81;
 	width: 230px;
 	min-height: 21px;
 	padding-top: 4px;
@@ -521,7 +492,7 @@
 
 #u1641-17
 {
-	z-index: 98;
+	z-index: 85;
 	min-height: 32px;
 	width: 88px;
 	margin-right: -10000px;
@@ -531,52 +502,16 @@
 
 #u1901-6
 {
-	z-index: 115;
+	z-index: 102;
 	width: 40px;
 	min-height: 28px;
 	padding-top: 12px;
 	margin-right: -10000px;
 	margin-top: 250px;
-	left: 384px;
+	left: 334px;
 }
 
-#u1932
-{
-	z-index: 121;
-	width: 35px;
-	height: 35px;
-}
-
-#u1963-6
-{
-	z-index: 123;
-	width: 40px;
-	min-height: 28px;
-	padding-top: 12px;
-	margin-right: -10000px;
-	margin-top: 250px;
-	left: 430px;
-}
-
-#u1965
-{
-	z-index: 129;
-	width: 35px;
-	height: 35px;
-}
-
-#u1978-6
-{
-	z-index: 131;
-	width: 40px;
-	min-height: 28px;
-	padding-top: 12px;
-	margin-right: -10000px;
-	margin-top: 250px;
-	left: 476px;
-}
-
-#u1901-6:hover,#u1963-6:hover,#u1978-6:hover
+#u1901-6:hover
 {
 	padding-top: 12px;
 	padding-bottom: 0px;
@@ -585,37 +520,19 @@
 	margin: 250px -10000px 0px 0px;
 }
 
-#u1980
-{
-	z-index: 137;
-	width: 35px;
-	height: 35px;
-}
-
-#u1936-6
-{
-	z-index: 139;
-	width: 40px;
-	min-height: 28px;
-	padding-top: 12px;
-	margin-right: -10000px;
-	margin-top: 250px;
-	left: 338px;
-}
-
-#u1933,#u1964,#u1979,#u1937
+#u1933
 {
 	margin: -9px -10px -11px;
 }
 
-#u1938
+#u1932
 {
-	z-index: 145;
+	z-index: 108;
 	width: 35px;
 	height: 35px;
 }
 
-#u1932:hover,#u1965:hover,#u1980:hover,#u1938:hover
+#u1932:hover
 {
 	width: 35px;
 	height: 35px;
@@ -623,9 +540,9 @@
 	margin: 0px;
 }
 
-#u2012-6
+#u2012-5
 {
-	z-index: 147;
+	z-index: 110;
 	width: 303px;
 	min-height: 29px;
 	margin-right: -10000px;
@@ -635,7 +552,7 @@
 
 #u2019-4
 {
-	z-index: 153;
+	z-index: 115;
 	width: 234px;
 	min-height: 22px;
 	margin-right: -10000px;
@@ -643,19 +560,9 @@
 	left: 336px;
 }
 
-#u2126-4
-{
-	z-index: 185;
-	width: 328px;
-	min-height: 26px;
-	margin-right: -10000px;
-	margin-top: 373px;
-	left: 330px;
-}
-
 #u2127-4
 {
-	z-index: 189;
+	z-index: 134;
 	width: 200px;
 	min-height: 29px;
 	margin-right: -10000px;
@@ -665,9 +572,8 @@
 
 #u2017
 {
-	z-index: 157;
+	z-index: 119;
 	width: 280px;
-	padding-bottom: 0px;
 	margin-right: -10000px;
 	margin-top: 50px;
 	left: 746px;
@@ -675,35 +581,53 @@
 
 #u2010-4
 {
-	z-index: 158;
+	z-index: 120;
 	width: 280px;
 	min-height: 29px;
 }
 
 #u2014-10
 {
-	z-index: 166;
+	z-index: 124;
 	width: 280px;
 	min-height: 98px;
 	top: -5px;
 	margin-bottom: -5px;
 }
 
-#u2013-4
+#u8806
 {
-	z-index: 162;
-	width: 280px;
-	min-height: 29px;
-	margin-top: 45px;
+	z-index: 138;
 }
 
-#u1900-9
+#u8807-4
 {
-	z-index: 176;
-	width: 157px;
-	min-height: 94px;
-	top: -4px;
-	margin-bottom: -4px;
+	z-index: 139;
+	min-height: 26px;
+	padding-top: 13px;
+	padding-right: 60px;
+}
+
+#u1649-3.AccordionPanelTabOpen,#u8807-4:hover
+{
+	padding-top: 13px;
+	padding-bottom: 0px;
+	min-height: 26px;
+	margin: 0px;
+}
+
+#u8807-4.AccordionPanelTabOpen
+{
+	padding-top: 13px;
+	padding-bottom: 0px;
+	min-height: 26px;
+	margin: 0px;
+}
+
+#u8808
+{
+	z-index: 143;
+	height: 414px;
 }
 
 #accordionu1636-bw

@@ -257,8 +257,8 @@
 	border-color: #EAEAEA;
 	background-color: transparent;
 	font-size: 10px;
-	line-height: 17px;
 	text-align: center;
+	line-height: 17px;
 	position: relative;
 	border-width: 0px 0px 0px 1px;
 }
@@ -283,9 +283,9 @@
 {
 	border-color: #EAEAEA;
 	background-color: transparent;
+	letter-spacing: 2px;
 	font-size: 12px;
 	line-height: 20px;
-	letter-spacing: 2px;
 	position: relative;
 }
 

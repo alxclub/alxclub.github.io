@@ -1,7 +1,7 @@
 .version.blog /* version checker */
 {
-	color: #0000E3;
-	background-color: #78F421;
+	color: #0000FA;
+	background-color: #18D87D;
 }
 
 @-ms-viewport
@@ -321,11 +321,11 @@
 	padding-left: 10px;
 	padding-top: 20px;
 	padding-right: 10px;
-	font-size: 30px;
-	letter-spacing: 2px;
 	color: #FFFFFF;
-	text-align: center;
+	font-size: 30px;
 	line-height: 31px;
+	letter-spacing: 2px;
+	text-align: center;
 	font-family: abel, sans-serif;
 	font-weight: 400;
 	position: relative;
