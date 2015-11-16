@@ -1,0 +1,857 @@
+.version.grocery /* version checker */
+{
+	color: #0000FC;
+	background-color: #8E4811;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 960px;
+	min-height: 500px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#page_position_content
+{
+	margin-top: -9px;
+	width: 0.01px;
+}
+
+#u487-6
+{
+	z-index: 250;
+	min-height: 84px;
+}
+
+#u2614
+{
+	margin-top: 4px;
+	margin-bottom: -4px;
+	margin-right: 70px;
+}
+
+#u2613-3
+{
+	z-index: 256;
+	width: 69px;
+	min-height: 89px;
+}
+
+#u2613-3:hover
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 89px;
+	width: 69px;
+	margin: 0px;
+}
+
+#u487-6-bw
+{
+	position: fixed;
+	left: 0px;
+	right: 0px;
+	z-index: 250;
+	top: -13px;
+}
+
+#top
+{
+	left: -128px;
+	position: relative;
+}
+
+#u2646-6
+{
+	z-index: 260;
+	min-height: 50px;
+	padding-right: 6px;
+}
+
+#u2654
+{
+	margin-top: 7px;
+	margin-bottom: -7px;
+}
+
+#u2647
+{
+	z-index: 266;
+	width: 66px;
+	height: 39px;
+}
+
+#u2647:hover
+{
+	width: 66px;
+	height: 39px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u2646-6-bw
+{
+	position: fixed;
+	left: 0px;
+	right: 0px;
+	z-index: 260;
+	top: 16px;
+}
+
+#u7507
+{
+	z-index: 282;
+	width: 248px;
+	min-height: 73px;
+	top: 24px;
+	left: 24px;
+}
+
+#u6111-14
+{
+	z-index: 268;
+	width: 541px;
+	min-height: 26px;
+	top: 38px;
+	left: 219px;
+}
+
+#pu9191-3
+{
+	width: 0.01px;
+	margin-left: -100px;
+	margin-top: 63px;
+}
+
+#u9191-3
+{
+	z-index: 96;
+	min-height: 123px;
+	border-style: none;
+	background-color: #AEDFE5;
+}
+
+#u9191-3-bw
+{
+	z-index: 96;
+	min-height: 123px;
+}
+
+#u9190-4
+{
+	z-index: 99;
+	width: 491px;
+	min-height: 47px;
+	background-color: transparent;
+	color: #90624D;
+	font-size: 40px;
+	text-align: center;
+	line-height: 48px;
+	letter-spacing: 7px;
+	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 46px;
+	left: 335px;
+}
+
+#u9190-2
+{
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u9190
+{
+	font-size: 45px;
+	color: #FFFFFF;
+	line-height: 54px;
+}
+
+#ppu9174
+{
+	width: 0.01px;
+	margin-left: 10px;
+	margin-top: 37px;
+}
+
+#pu9174
+{
+	width: 0.01px;
+	margin-right: -10000px;
+	margin-top: 1px;
+	margin-left: 320px;
+}
+
+#u9174
+{
+	z-index: 21;
+	width: 300px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u9175-33
+{
+	z-index: 22;
+	width: 276px;
+	min-height: 512px;
+	border-width: 2px;
+	border-style: solid;
+	border-color: #F79351;
+	padding-left: 10px;
+	padding-right: 10px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+.home_thumb_container
+{
+	border-width: 1px;
+	border-style: solid;
+	border-color: #989898;
+	background-color: transparent;
+}
+
+#u9175-24
+{
+	text-align: center;
+	line-height: 25px;
+	letter-spacing: 5px;
+	color: #333333;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+}
+
+#u9175-27
+{
+	font-size: 30px;
+	text-align: center;
+	line-height: 27px;
+	letter-spacing: -1px;
+	color: #333333;
+	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
+}
+
+#u9175-29
+{
+	font-size: 24px;
+	text-align: center;
+	line-height: 22px;
+	letter-spacing: -1px;
+	color: #333333;
+	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
+}
+
+#u9175-30
+{
+	text-align: center;
+	letter-spacing: 4px;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+}
+
+#u9172
+{
+	z-index: 93;
+	width: 280px;
+	height: 389px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 11px;
+	left: 10px;
+	background: #7F7F7F url("../images/grocerystore%20(1)-u6316-fr.jpg") no-repeat center top;
+	background-size: cover;
+}
+
+.home_thumb_img
+{
+	border-style: none;
+	border-color: #000000;
+	background: #7F7F7F url("../images/home_thumb1.jpg") no-repeat left top;
+	background-size: contain;
+}
+
+#ppu9156
+{
+	width: 0.01px;
+	margin-right: -10000px;
+	margin-left: 640px;
+}
+
+#pu9156
+{
+	width: 0.01px;
+}
+
+#u9156
+{
+	z-index: 3;
+	width: 300px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u9157-17
+{
+	z-index: 4;
+	width: 276px;
+	min-height: 277px;
+	border-width: 2px;
+	border-style: solid;
+	border-color: #F79351;
+	padding-left: 10px;
+	padding-top: 10px;
+	padding-right: 10px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u9161
+{
+	z-index: 94;
+	width: 280px;
+	height: 148px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 11px;
+	left: 10px;
+	background: #7F7F7F url("../images/small-business%20owner-u6329-fr.jpg") no-repeat left top;
+	background-size: contain;
+}
+
+#pu9301
+{
+	width: 0.01px;
+	margin-top: 29px;
+}
+
+#u9301
+{
+	z-index: 103;
+	width: 300px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u9302-30
+{
+	z-index: 104;
+	width: 276px;
+	min-height: 469px;
+	border-width: 2px;
+	border-style: solid;
+	border-color: #F79351;
+	padding-left: 10px;
+	padding-top: 10px;
+	padding-right: 10px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u9302-24
+{
+	text-align: center;
+	line-height: 18px;
+	letter-spacing: 5px;
+	color: #333333;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+}
+
+#u9157-14,#u9302-26
+{
+	font-size: 30px;
+	text-align: center;
+	line-height: 27px;
+	letter-spacing: -1px;
+	color: #000000;
+	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
+}
+
+#u9302-28
+{
+	font-size: 24px;
+	text-align: center;
+	line-height: 22px;
+	letter-spacing: -1px;
+	color: #000000;
+	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
+}
+
+#u9304
+{
+	z-index: 134;
+	width: 280px;
+	height: 386px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 12px;
+	left: 10px;
+	background: #7F7F7F url("../images/meatshopowner.jpg") no-repeat right top;
+	background-size: cover;
+}
+
+#u9168-3
+{
+	z-index: 55;
+	width: 32px;
+	min-height: 1754px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 700px;
+	left: 976px;
+}
+
+#u9176
+{
+	z-index: 58;
+	width: 300px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1px;
+}
+
+#u9177-34
+{
+	z-index: 59;
+	width: 276px;
+	min-height: 515px;
+	border-width: 2px;
+	border-style: solid;
+	border-color: #F79351;
+	padding-left: 10px;
+	padding-top: 10px;
+	padding-right: 10px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u9175-3,#u9175-4,#u9175-5,#u9175-6,#u9175-7,#u9175-8,#u9175-9,#u9175-10,#u9175-11,#u9175-12,#u9175-13,#u9175-14,#u9175-15,#u9175-16,#u9175-17,#u9175-18,#u9175-19,#u9175-20,#u9175-21,#u9175-22,#u9175-23,#u9175-25,#u9157-3,#u9157-4,#u9157-5,#u9157-6,#u9157-7,#u9157-8,#u9157-9,#u9157-10,#u9157-11,#u9157-12,#u9302-3,#u9302-4,#u9302-5,#u9302-6,#u9302-7,#u9302-8,#u9302-9,#u9302-10,#u9302-11,#u9302-12,#u9302-13,#u9302-14,#u9302-15,#u9302-16,#u9302-17,#u9302-18,#u9302-19,#u9302-20,#u9302-21,#u9302-22,#u9302-23,#u9177-3,#u9177-4,#u9177-5,#u9177-6,#u9177-7,#u9177-8,#u9177-9,#u9177-10,#u9177-11,#u9177-12,#u9177-13,#u9177-14,#u9177-15,#u9177-16,#u9177-17,#u9177-18,#u9177-19,#u9177-20,#u9177-21,#u9177-22,#u9177-23,#u9177-24
+{
+	font-size: 14px;
+	text-align: center;
+	letter-spacing: 5px;
+	color: #333333;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+}
+
+#u9177-25
+{
+	text-align: center;
+	line-height: 17px;
+	letter-spacing: 5px;
+	color: #333333;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+}
+
+#u9177-28
+{
+	font-size: 36px;
+	text-align: center;
+	letter-spacing: -1px;
+	color: #000000;
+	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u9177-26
+{
+	font-size: 24px;
+	line-height: 22px;
+}
+
+#u9177-27
+{
+	line-height: 32px;
+}
+
+#u9177-30
+{
+	font-size: 36px;
+	text-align: center;
+	line-height: 32px;
+	letter-spacing: -1px;
+	color: #000000;
+	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
+}
+
+#u9177-31
+{
+	text-align: center;
+	letter-spacing: -1px;
+	color: #000000;
+	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
+}
+
+#u9175,#u9175-2,#u9175-31,#u9157,#u9157-2,#u9157-15,#u9302,#u9302-2,#u9177,#u9177-2,#u9177-32
+{
+	text-align: center;
+}
+
+#u9166
+{
+	z-index: 95;
+	width: 280px;
+	height: 388px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 12px;
+	left: 10px;
+	background: #7F7F7F url("../images/storeownerhappy-u6331-fr.jpg") no-repeat right top;
+	background-size: cover;
+}
+
+.js #u9161.ose_pre_init,.js #u9304.ose_pre_init,.js #u9166.ose_pre_init
+{
+	opacity: 0.2;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=20)";
+	filter: alpha(opacity=20);
+}
+
+#accordionu1636
+{
+	z-index: 135;
+	bottom: -46px;
+}
+
+#u1637
+{
+	z-index: 136;
+}
+
+#u1649-3
+{
+	z-index: 137;
+	min-height: 26px;
+	padding-top: 13px;
+	padding-right: 60px;
+}
+
+#u1649-3:hover
+{
+	padding-top: 13px;
+	padding-bottom: 0px;
+	min-height: 26px;
+	margin: 0px;
+}
+
+#u1638
+{
+	z-index: 140;
+}
+
+#pu1648-23
+{
+	width: 0.01px;
+	margin-right: -10000px;
+}
+
+#u1648-23
+{
+	z-index: 141;
+	width: 245px;
+	min-height: 412px;
+	padding-left: 25px;
+	margin-right: -10000px;
+	margin-top: 2px;
+}
+
+#u1650-9
+{
+	z-index: 164;
+	width: 430px;
+	min-height: 412px;
+	margin-right: -10000px;
+	left: 270px;
+}
+
+#widgetu1639
+{
+	z-index: 173;
+	width: 0.01px;
+	height: 63px;
+	margin-right: -10000px;
+	margin-top: 134px;
+	left: 330px;
+}
+
+#widgetu1643
+{
+	z-index: 174;
+	width: 225px;
+	height: 27px;
+	margin-right: -10000px;
+}
+
+#widgetu1643.fld-err-st
+{
+	width: 225px;
+	height: 27px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u1645-4
+{
+	z-index: 175;
+	width: 213px;
+	min-height: 14px;
+	padding: 6px;
+	margin-right: -10000px;
+}
+
+#widgetu1643:hover #u1645-4
+{
+	padding-top: 6px;
+	padding-bottom: 6px;
+	min-height: 14px;
+	width: 213px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#widgetu1643.focus-st #u1645-4
+{
+	padding-top: 6px;
+	padding-bottom: 6px;
+	min-height: 14px;
+	width: 213px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#widgetu1643.fld-err-st #u1645-4
+{
+	padding-top: 6px;
+	padding-bottom: 6px;
+	min-height: 14px;
+	width: 213px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#widgetu1643_input,#widgetu1643_prompt
+{
+	width: 213px;
+	min-height: 14px;
+	padding: 6px;
+}
+
+#widgetu1643:hover #widgetu1643_input,#widgetu1643.focus-st #widgetu1643_input,#widgetu1643.fld-err-st #widgetu1643_input,#widgetu1643:hover #widgetu1643_prompt,#widgetu1643.focus-st #widgetu1643_prompt,#widgetu1643.fld-err-st #widgetu1643_prompt
+{
+	padding-top: 6px;
+	padding-bottom: 6px;
+}
+
+#u1647-4
+{
+	z-index: 179;
+	width: 230px;
+	min-height: 21px;
+	padding-top: 4px;
+	margin-right: -10000px;
+	margin-top: 38px;
+	left: 10px;
+}
+
+#u1642-4
+{
+	z-index: 183;
+	width: 230px;
+	min-height: 21px;
+	padding-top: 4px;
+	margin-right: -10000px;
+	margin-top: 38px;
+	left: 10px;
+}
+
+#u1640-4
+{
+	z-index: 187;
+	width: 230px;
+	min-height: 21px;
+	padding-top: 4px;
+	margin-right: -10000px;
+	margin-top: 38px;
+	left: 10px;
+}
+
+#widgetu1639.frm-sub-st #u1647-4,#widgetu1639.frm-subm-err-st #u1642-4,#widgetu1639.frm-subm-ok-st #u1640-4
+{
+	min-height: 25px;
+}
+
+#u1641-17
+{
+	z-index: 191;
+	min-height: 32px;
+	width: 88px;
+	margin-right: -10000px;
+	margin-top: -3px;
+	left: 232px;
+}
+
+#u1901-6
+{
+	z-index: 208;
+	width: 40px;
+	min-height: 28px;
+	padding-top: 12px;
+	margin-right: -10000px;
+	margin-top: 250px;
+	left: 334px;
+}
+
+#u1901-6:hover
+{
+	padding-top: 12px;
+	padding-bottom: 0px;
+	min-height: 28px;
+	width: 40px;
+	margin: 250px -10000px 0px 0px;
+}
+
+#u1933
+{
+	margin: -9px -10px -11px;
+}
+
+#u1932
+{
+	z-index: 214;
+	width: 35px;
+	height: 35px;
+}
+
+#u1932:hover
+{
+	width: 35px;
+	height: 35px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u2012-5
+{
+	z-index: 216;
+	width: 303px;
+	min-height: 29px;
+	margin-right: -10000px;
+	margin-top: 50px;
+	left: 331px;
+}
+
+#u2019-4
+{
+	z-index: 221;
+	width: 234px;
+	min-height: 22px;
+	margin-right: -10000px;
+	margin-top: 217px;
+	left: 336px;
+}
+
+#u2127-4
+{
+	z-index: 240;
+	width: 200px;
+	min-height: 29px;
+	margin-right: -10000px;
+	margin-top: 50px;
+	left: 20px;
+}
+
+#u2017
+{
+	z-index: 225;
+	width: 280px;
+	margin-right: -10000px;
+	margin-top: 50px;
+	left: 746px;
+}
+
+#u2010-4
+{
+	z-index: 226;
+	width: 280px;
+	min-height: 29px;
+}
+
+#u2014-10
+{
+	z-index: 230;
+	width: 280px;
+	min-height: 98px;
+	top: -5px;
+	margin-bottom: -5px;
+}
+
+#u8806
+{
+	z-index: 244;
+}
+
+#u8807-4
+{
+	z-index: 245;
+	min-height: 26px;
+	padding-top: 13px;
+	padding-right: 60px;
+}
+
+#u1649-3.AccordionPanelTabOpen,#u8807-4:hover
+{
+	padding-top: 13px;
+	padding-bottom: 0px;
+	min-height: 26px;
+	margin: 0px;
+}
+
+#u8807-4.AccordionPanelTabOpen
+{
+	padding-top: 13px;
+	padding-bottom: 0px;
+	min-height: 26px;
+	margin: 0px;
+}
+
+#u8808
+{
+	z-index: 249;
+	height: 414px;
+}
+
+#accordionu1636-bw
+{
+	z-index: 135;
+}
+
+body
+{
+	position: relative;
+	min-width: 960px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

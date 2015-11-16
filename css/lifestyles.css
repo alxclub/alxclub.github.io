@@ -1,7 +1,7 @@
 .version.lifestyles /* version checker */
 {
-	color: #000006;
-	background-color: #BE8E6E;
+	color: #000009;
+	background-color: #26CAB4;
 }
 
 .html
@@ -107,19 +107,6 @@
 	right: 0px;
 	z-index: 182;
 	top: 16px;
-}
-
-#u8556
-{
-	z-index: 205;
-	width: 35px;
-	height: 1px;
-	border-color: #000000;
-	background-color: #F7931E;
-	position: fixed;
-	top: 20px;
-	left: 50%;
-	margin-left: 47px;
 }
 
 #u7507
@@ -305,7 +292,7 @@
 #paccordionu1636
 {
 	width: 0.01px;
-	padding-bottom: 922px;
+	padding-bottom: 508px;
 	margin-left: -100px;
 	margin-top: -1319px;
 }
@@ -313,7 +300,7 @@
 #accordionu1636
 {
 	z-index: 57;
-	bottom: -460px;
+	bottom: -46px;
 }
 
 #u1637

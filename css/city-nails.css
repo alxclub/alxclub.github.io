@@ -1,7 +1,7 @@
 .version.city_nails /* version checker */
 {
-	color: #000003;
-	background-color: #037BB2;
+	color: #00000C;
+	background-color: #CE7D39;
 }
 
 .html
@@ -107,19 +107,6 @@
 	right: 0px;
 	z-index: 186;
 	top: 16px;
-}
-
-#u8273
-{
-	z-index: 209;
-	width: 35px;
-	height: 1px;
-	border-color: #000000;
-	background-color: #F7931E;
-	position: fixed;
-	top: 20px;
-	left: 50%;
-	margin-left: 47px;
 }
 
 #u7507
@@ -303,7 +290,7 @@
 #paccordionu1636
 {
 	width: 0.01px;
-	padding-bottom: 922px;
+	padding-bottom: 508px;
 	margin-left: -100px;
 	margin-top: -1345px;
 }
@@ -311,7 +298,7 @@
 #accordionu1636
 {
 	z-index: 61;
-	bottom: -460px;
+	bottom: -46px;
 }
 
 #u1637

@@ -1,7 +1,7 @@
 .version.leslieville /* version checker */
 {
-	color: #0000E3;
-	background-color: #777739;
+	color: #00000D;
+	background-color: #2F52D2;
 }
 
 .html
@@ -107,19 +107,6 @@
 	right: 0px;
 	z-index: 498;
 	top: 16px;
-}
-
-#u6311
-{
-	z-index: 521;
-	width: 35px;
-	height: 1px;
-	border-color: #000000;
-	background-color: #F7931E;
-	position: fixed;
-	top: 20px;
-	left: 50%;
-	margin-left: 40px;
 }
 
 #u7507
@@ -1068,7 +1055,7 @@
 #accordionu1636
 {
 	z-index: 373;
-	bottom: -460px;
+	bottom: -46px;
 }
 
 #u1637

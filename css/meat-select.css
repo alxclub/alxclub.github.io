@@ -1,7 +1,7 @@
 .version.meat_select /* version checker */
 {
 	color: #00001B;
-	background-color: #5FBF50;
+	background-color: #86096A;
 }
 
 .html
@@ -107,19 +107,6 @@
 	right: 0px;
 	z-index: 191;
 	top: 16px;
-}
-
-#u7834
-{
-	z-index: 214;
-	width: 35px;
-	height: 1px;
-	border-color: #000000;
-	background-color: #F7931E;
-	position: fixed;
-	top: 20px;
-	left: 50%;
-	margin-left: 47px;
 }
 
 #u7507
@@ -308,7 +295,7 @@
 #paccordionu1636
 {
 	width: 0.01px;
-	padding-bottom: 922px;
+	padding-bottom: 508px;
 	margin-left: -100px;
 	margin-top: -1319px;
 }
@@ -316,7 +303,7 @@
 #accordionu1636
 {
 	z-index: 66;
-	bottom: -460px;
+	bottom: -46px;
 }
 
 #u1637

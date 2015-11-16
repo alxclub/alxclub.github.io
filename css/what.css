@@ -1,7 +1,7 @@
-.version.where /* version checker */
+.version.what /* version checker */
 {
-	color: #0000F5;
-	background-color: #164793;
+	color: #000003;
+	background-color: #0DC0A1;
 }
 
 .html
@@ -642,7 +642,7 @@
 #accordionu1636
 {
 	z-index: 225;
-	bottom: -460px;
+	bottom: -46px;
 }
 
 #u1637

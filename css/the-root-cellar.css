@@ -1,7 +1,7 @@
 .version.the_root_cellar /* version checker */
 {
-	color: #0000E9;
-	background-color: #BA6807;
+	color: #00000F;
+	background-color: #E5276B;
 }
 
 .html
@@ -109,19 +109,6 @@
 	right: 0px;
 	z-index: 185;
 	top: 16px;
-}
-
-#u8627
-{
-	z-index: 208;
-	width: 35px;
-	height: 1px;
-	border-color: #000000;
-	background-color: #F7931E;
-	position: fixed;
-	top: 20px;
-	left: 50%;
-	margin-left: 47px;
 }
 
 #u7507
@@ -323,7 +310,7 @@
 #accordionu1636
 {
 	z-index: 60;
-	bottom: -460px;
+	bottom: -46px;
 }
 
 #u1637

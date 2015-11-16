@@ -1,7 +1,7 @@
 .version.hip_baby /* version checker */
 {
-	color: #000004;
-	background-color: #596F2B;
+	color: #0000E9;
+	background-color: #00456F;
 }
 
 .html
@@ -248,7 +248,7 @@
 	width: 0.01px;
 	margin-left: -100px;
 	margin-top: -1398px;
-	padding: 105px 1060px 839px 100px;
+	padding: 105px 1060px 425px 100px;
 }
 
 #u2646-6
@@ -288,19 +288,6 @@
 	top: 16px;
 }
 
-#u8480
-{
-	z-index: 210;
-	width: 35px;
-	height: 1px;
-	border-color: #000000;
-	background-color: #F7931E;
-	position: fixed;
-	top: 20px;
-	left: 50%;
-	margin-left: 47px;
-}
-
 #u7507
 {
 	z-index: 209;
@@ -322,7 +309,7 @@
 #accordionu1636
 {
 	z-index: 62;
-	bottom: -460px;
+	bottom: -46px;
 }
 
 #u1637

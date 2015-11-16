@@ -1,7 +1,7 @@
 .version.about /* version checker */
 {
-	color: #0000EB;
-	background-color: #5E4EB7;
+	color: #0000F0;
+	background-color: #AF8210;
 }
 
 .html
@@ -154,19 +154,6 @@
 	right: 0px;
 	z-index: 245;
 	top: 16px;
-}
-
-#u6305
-{
-	z-index: 268;
-	width: 40px;
-	height: 1px;
-	border-color: #000000;
-	background-color: #F7931E;
-	position: fixed;
-	top: 20px;
-	left: 50%;
-	margin-left: -66px;
 }
 
 #u7507
@@ -502,7 +489,7 @@
 #accordionu1636
 {
 	z-index: 120;
-	bottom: -460px;
+	bottom: -46px;
 }
 
 #u1637

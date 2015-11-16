@@ -1,7 +1,7 @@
 .version.eastman_bike_repair /* version checker */
 {
-	color: #000008;
-	background-color: #382E6E;
+	color: #0000F1;
+	background-color: #33D86D;
 }
 
 .html
@@ -107,19 +107,6 @@
 	right: 0px;
 	z-index: 186;
 	top: 16px;
-}
-
-#u8173
-{
-	z-index: 209;
-	width: 35px;
-	height: 1px;
-	border-color: #000000;
-	background-color: #F7931E;
-	position: fixed;
-	top: 20px;
-	left: 50%;
-	margin-left: 47px;
 }
 
 #u7507
@@ -304,7 +291,7 @@
 #paccordionu1636
 {
 	width: 0.01px;
-	padding-bottom: 922px;
+	padding-bottom: 508px;
 	margin-left: -100px;
 	margin-top: -1319px;
 }
@@ -312,7 +299,7 @@
 #accordionu1636
 {
 	z-index: 61;
-	bottom: -460px;
+	bottom: -46px;
 }
 
 #u1637
