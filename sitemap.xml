@@ -31,12 +31,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.trustoree.com/images/cart_ap.png</loc>
-    <lastmod>2015-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://www.trustoree.com/images/businessower.jpg</loc>
     <lastmod>2015-11-15</lastmod>
     <changefreq>weekly</changefreq>
@@ -127,43 +121,22 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.trustoree.com/phone/collections.html</loc>
-    <lastmod>2015-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.trustoree.com/phone/blog-details.html</loc>
-    <lastmod>2015-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.trustoree.com/phone/blog.html</loc>
-    <lastmod>2015-11-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://www.trustoree.com/about.html</loc>
     <lastmod>2015-11-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://www.trustoree.com/phone/about.html"/>
   </url>
   <url>
     <loc>http://www.trustoree.com/shop.html</loc>
     <lastmod>2015-11-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://www.trustoree.com/phone/shop.html"/>
   </url>
   <url>
     <loc>http://www.trustoree.com/index.html</loc>
     <lastmod>2015-11-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://www.trustoree.com/phone/index.html"/>
   </url>
   <url>
     <loc>http://www.trustoree.com/simple-sign-up.html</loc>
