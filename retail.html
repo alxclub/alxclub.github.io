@@ -3,7 +3,7 @@
  <head>
 
   <script type="text/javascript">
-   if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["jquery-1.8.3.min.js", "museutils.js", "jquery.scrolleffects.js", "jquery.watch.js", "jquery.musepolyfill.bgsize.js", "webpro.js", "musewpdisclosure.js", "retail.css"], "outOfDate":[]};
+   if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["jquery-1.8.3.min.js", "museutils.js", "jquery.scrolleffects.js", "jquery.watch.js", "webpro.js", "musewpdisclosure.js", "jquery.musepolyfill.bgsize.js", "retail.css"], "outOfDate":[]};
 </script>
   
   <meta http-equiv="Content-type" content="text/html;charset=UTF-8"/>
@@ -210,9 +210,9 @@ $('#u487-6-bw').registerPositionScrollEffect([{"speed":[null,1],"in":[-Infinity,
 Muse.Utils.resizeHeight()/* resize height */
 $('#u2646-6-bw').registerPositionScrollEffect([{"speed":[null,1],"in":[-Infinity,10]},{"speed":[null,0],"in":[10,Infinity]}]);/* scroll effect */
 $('#u6111-14').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,11]},{"speed":[0,0],"in":[11,Infinity]}]);/* scroll effect */
-$('#u9442').registerOpacityScrollEffect([{"in":[-Infinity,-51],"fade":387,"opacity":20},{"in":[-51,-51],"opacity":100},{"in":[-51,Infinity],"fade":50,"opacity":100}]);/* scroll effect */
-$('#u9450').registerOpacityScrollEffect([{"in":[-Infinity,-225.5],"fade":147,"opacity":20},{"in":[-225.5,-225.5],"opacity":100},{"in":[-225.5,Infinity],"fade":50,"opacity":100}]);/* scroll effect */
-$('#u9481').registerOpacityScrollEffect([{"in":[-Infinity,-33.5],"fade":147,"opacity":20},{"in":[-33.5,-33.5],"opacity":100},{"in":[-33.5,Infinity],"fade":50,"opacity":100}]);/* scroll effect */
+$('#u9442').registerOpacityScrollEffect([{"fade":387,"in":[-Infinity,-51],"opacity":20},{"in":[-51,-51],"opacity":100},{"fade":50,"in":[-51,Infinity],"opacity":100}]);/* scroll effect */
+$('#u9450').registerOpacityScrollEffect([{"fade":147,"in":[-Infinity,-225.5],"opacity":20},{"in":[-225.5,-225.5],"opacity":100},{"fade":50,"in":[-225.5,Infinity],"opacity":100}]);/* scroll effect */
+$('#u9481').registerOpacityScrollEffect([{"fade":147,"in":[-Infinity,-33.5],"opacity":20},{"in":[-33.5,-33.5],"opacity":100},{"fade":50,"in":[-33.5,Infinity],"opacity":100}]);/* scroll effect */
 Muse.Utils.initWidget('#widgetu1639', function(elem) { new WebPro.Widget.Form(elem, {validationEvent:'submit',errorStateSensitivity:'high',fieldWrapperClass:'fld-grp',formSubmittedClass:'frm-sub-st',formErrorClass:'frm-subm-err-st',formDeliveredClass:'frm-subm-ok-st',notEmptyClass:'non-empty-st',focusClass:'focus-st',invalidClass:'fld-err-st',requiredClass:'fld-err-st',ajaxSubmit:true}); });/* #widgetu1639 */
 Muse.Utils.initWidget('#accordionu1636', function(elem) { return new WebPro.Widget.Accordion(elem, {canCloseAll:true,defaultIndex:0}); });/* #accordionu1636 */
 Muse.Utils.fullPage('#page');/* 100% height page */
