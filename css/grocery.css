@@ -1,7 +1,7 @@
 .version.grocery /* version checker */
 {
-	color: #00000B;
-	background-color: #655564;
+	color: #00000F;
+	background-color: #C56697;
 }
 
 .html
@@ -154,10 +154,10 @@
 	width: 491px;
 	min-height: 47px;
 	background-color: transparent;
+	line-height: 48px;
 	color: #90624D;
 	font-size: 40px;
 	text-align: center;
-	line-height: 48px;
 	letter-spacing: 7px;
 	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
 	position: relative;
@@ -404,7 +404,7 @@
 	margin-right: -10000px;
 	margin-top: 12px;
 	left: 10px;
-	background: #7F7F7F url("../images/meatshopowner.jpg") no-repeat right top;
+	background: #7F7F7F url("../images/meatshopowner-u6336-fr.jpg") no-repeat right top;
 	background-size: cover;
 }
 
